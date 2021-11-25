@@ -25,7 +25,7 @@ def get_city():
     elif city == 'Washington' or city == 'W':
         return 'washington.csv'
     else:
-        print("\nI'm sorry, I'm not sure which city you're referring to. Let's try again.")
+        print("\nI'm sorry, Invalid Input. Let's try again.")
         return get_city()
 
 
