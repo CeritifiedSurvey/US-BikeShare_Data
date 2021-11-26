@@ -386,8 +386,7 @@ def statistics():
         else:
             print("\nI'm not sure if you wanted to restart or not. Let's try again.")
             return restart_question()
-
-    restart_question()
+			restart_question()
 
 
 if __name__ == "__main__":
