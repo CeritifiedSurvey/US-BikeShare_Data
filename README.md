@@ -92,3 +92,4 @@ The code helps user to tell about bike share use in _Chicago_, _New York City_ a
   - counts of each user type
   - counts of each gender (only available for _NYC_ and _Chicago_)
   - earliest, most recent, most common year of birth (only available for _NYC_ and _Chicago_)
+
