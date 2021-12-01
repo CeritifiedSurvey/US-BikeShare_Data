@@ -2,6 +2,7 @@
 
 ## 5th Dec'21
 
+
 ## **Overview:**
 In this project, _Python_ is used to explore data related to bike share systems for three major cities in the United States — _Chicago, New York City,_ and _Washington_. 
 - The source code takes in raw input from the user to create an interactive experience. 
@@ -89,6 +90,9 @@ The code helps user to tell about bike share use in _Chicago_, _New York City_ a
 * User info:
 
 
+
   - counts of each user type
   - counts of each gender (only available for _NYC_ and _Chicago_)
   - earliest, most recent, most common year of birth (only available for _NYC_ and _Chicago_)
+
+
